@@ -16,7 +16,7 @@ y la app calcula el costo individual y el total de la receta.
 ## Tecnologías
 
 - **HTML**
-- **CSS**: variables, Flexbox, media queries.
+- **CSS**: 
 - **JavaScript**: clases, arrays, `reduce`, eventos `submit` y `keydown`, manipulación del DOM.
 
 ## Cómo usarlo
